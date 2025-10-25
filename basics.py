@@ -13,4 +13,12 @@ print("Hello World")
 print("My number is:", num) 
 
 ans = num + 2 
-print("My new number is:", ans)
+print( ans)
+
+print(num - 2) 
+print(num * 2) 
+print(num * 2) 
+print(num / 2)
+print(num // 2)
+print(num % 2)
+print(num ** 2)

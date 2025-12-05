@@ -1,0 +1,1 @@
+# TODO 49: Make a function that takes an array as parameter and sorts the array using the function from TASK 44 and removes any duplicates in the array return final array 

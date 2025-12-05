@@ -1,0 +1,1 @@
+# use array from task 37 and find the avg marks 

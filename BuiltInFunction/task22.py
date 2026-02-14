@@ -1,4 +1,4 @@
-#TODO 21: take an input from the user and output string of the increasing size
+#TODO 22: take an input from the user and output string of the increasing size
 
 x = input("Enter the string: ")
 

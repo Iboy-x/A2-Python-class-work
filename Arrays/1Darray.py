@@ -1,4 +1,4 @@
-# 1D array 
+'''# 1D array 
 
 list = [] # empty list with no index
 
@@ -19,7 +19,7 @@ for name in list:
 # arrayName = [initial value for i in range(totalindex)]
 list2 = [-1 for i in range(10)]
 print(list2)
-
+'''
 list3 = [input("Enter a value: ") for i in range(3)]
 print(list3)
 
